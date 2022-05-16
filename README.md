@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drOte85
-- 👀 I’m interested in music, hi-tech, learn and improve code
+- 👀 I’m interested in music, hi-tech, learn and improve my skills in coding with python
 - 🌱 I’m currently learning python, streamlit
 
 <!---
