@@ -121,7 +121,7 @@ def giorno_max_messaggi():
     return giorno_max
 
 ################################
-##### CFREAZIONE SIDE BAR ######
+##### CREAZIONE SIDE BAR ######
 ################################
 
 option = st.sidebar.selectbox('Seleziona la pagina', ('Home page', 'Insights'))
