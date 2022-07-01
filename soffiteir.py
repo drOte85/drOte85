@@ -40,7 +40,7 @@ st.markdown(
 
 @st.experimental_memo
 def get_data():
-    dati = pd.read_excel('df_soffiteir.xlsx')
+    dati = pd.read_excel("./df_soffiteir.xlsx")
     return dati
 
 df = get_data()
